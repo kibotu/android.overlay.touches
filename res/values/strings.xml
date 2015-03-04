@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InputInjector</string>
+
+    <string name="title_notification">Overlay View</string>
+    <string name="message_notification">Press To Hide Overlay</string>
+</resources>
